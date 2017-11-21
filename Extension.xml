@@ -1,0 +1,44 @@
+<Extension>
+    <class type="doc" level="uncheck">
+        ans,acs,txt,dat,data,log,chm,col,dic,exc,scp,wtx,xml,pdf,tmp,temp
+    </class>
+    <class type="mcdoc" level="safe">
+        doc,docx,dochtml,docmhtml,dot,dothtml,wiz,wps,xls,xlsx,xla,xlb,xlc,xld,xlk,xll,xlm,xlshtml,xlsmhtml,xlt,xlthtml,xlv,xlw,dqy,ppt,pptx,pot,pothtml,ppa,pps,ppthtml,pptmhtml,pwz,ade,adn,adp,csv,dif,elm,eml,fad,mad,maf,mag,mam,maq,mar,mas,mat,mav,maw,mdb,mdbhtml,mde,mdn,mdt,mdw,mdz,msg,odc,oft,ops,oss,ost,wbk,
+    </class>
+    <class type="img" level="safe">
+        bmp,dib,emf,gif,ico,jfif,jpe,jpeg,jpg,pcd,pcx,png,tif,tiff,wmf,psd,ai
+    </class>
+    <class type="rar" level="safe">
+        zip,7z,rar
+    </class>
+    <class type="video" level="safe">
+        3gp,avi,dvd,flv,fla,ivf,m1v,mkv,mml,mmm,mmw,mp2,mp2v,mp4,mpa,mpe,mpeg,mpg,mpv2,wmv,wmx,vob
+    </class>
+    <class type="audio" level="safe">
+        aif,aifc,aiff,asf,asx,au,audiocd,cda,mp3,snd,spl,swf,wav,wax,wm,wma
+    </class>
+    <class type="system" level="critical">
+        acm,bkf,386,drv,pma,pmc,pml,pmr,pmw,rdp,sys,vxd,
+    </class>
+    <class type="web" level="important">
+        asp,css,hta,htm,html,js,url,wcs,web,webpnp,xsl,json
+    </class>
+    <class type="cmd" level="important">
+        com,bat
+    </class>
+    <class type="process" level="important">
+        exe,dll,ini,msi,msp,ocx,stf,wmd,zap
+    </class>
+    <class type="code" level="safe">
+        asp,cpp,c,class,jar,py,pl,lua
+    </class>
+    <class type="security" level="critical">
+        cer,crl,crt,der,p10,p12,p7b,p7c,pko,sst,stl
+    </class>
+    <class type="database" level="important">
+        db,dcs,
+    </class>
+    <class type="font" level="safe">
+        chr,fon,ttf
+    </class>
+</Extension>
